@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagans-7" alt="jagans-7" /></a> </p>
 
-- 🌱 I’m currently learning **react framework for frontend web-dev, and also flutter**
+- 🌱 I’m currently exploring **react framework for frontend web-dev, and also flutter development**
 
 - 📫 How to reach me **sapavatjagan861@gmail.com**
 
