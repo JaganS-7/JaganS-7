@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sapavatjagan861@gmail.com**
 
-- 📄 Having knowledge in **C, Python, MATLAB, HTML/CSS, Javascript, React.js, and Flutter framework.**
+- 📄 Passionate about web-dev and software-dev
 
 - ⚡ Fun fact **I think I'm funny**
 
