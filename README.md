@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagans-7" alt="jagans-7" /></a> </p>
 
-- 🌱 I’m currently exploring **react framework for frontend web-dev, and also flutter development**
+- 🌱 I’m exploring **react framework for frontend web-dev, and also flutter development**
 
 - 📫 How to reach me **sapavatjagan861@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11NGU0NEu5kpp-hGmiOMdOYXrGNQtol4C/view?usp=sharing](https://drive.google.com/file/d/11NGU0NEu5kpp-hGmiOMdOYXrGNQtol4C/view?usp=sharing)
+- 📄 Having knowledge in **C, Python, MATLAB, HTML/CSS, Javascript, React.js, and Flutter framework.**
 
 - ⚡ Fun fact **I think I'm funny**
 
