@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagans-7" alt="jagans-7" /></a> </p>
 
-- 🌱 I’m exploring **react framework for frontend web-dev, and also flutter development**
+- 🌱 Aspiring software developer skilled in React for frontend web development and Flutter application development, seeking opportunities to enhance coding skills and contribute to innovative projects
 
 - 📫 How to reach me **sapavatjagan861@gmail.com**
 
